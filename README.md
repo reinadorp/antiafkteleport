@@ -1,4 +1,4 @@
 # antiafkteleport
-antiafkteleport FREE
+Some charge for something that should be free.
 
 discord: tavostro
